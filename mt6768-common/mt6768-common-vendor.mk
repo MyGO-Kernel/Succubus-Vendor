@@ -1142,6 +1142,16 @@ PRODUCT_COPY_FILES += \
 PRODUCT_PACKAGES += \
     libfmjni \
     libwifi-hal-mtk \
+    ImsService \
+    mediatek-common \
+    mediatek-framework \
+    mediatek-ims-base \
+    mediatek-ims-common \
+    mediatek-ims-extension-plugin \
+    mediatek-ims-legacy \
+    mediatek-telecom-common \
+    mediatek-telephony-base \
+    mediatek-telephony-common \
     vendor.mediatek.hardware.gpu@1.0-service \
     wpa_supplicant \
     manifest_android.hardware.drm@1.3-service.widevine
